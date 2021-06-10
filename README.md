@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="/docs/disgord-draft-8.jpeg" alt='Build Status' />
+  <img src="/docs/disgord-banner.png" alt='Build Status' />
   <p>
     <a href="https://codecov.io/gh/andersfylling/disgord">
       <img src="https://codecov.io/gh/andersfylling/disgord/branch/develop/graph/badge.svg" />
